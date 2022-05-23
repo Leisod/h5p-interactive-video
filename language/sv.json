@@ -435,7 +435,7 @@
         },
         {
           "label": "Skicka skärminformation när knappen Skicka är inaktiverad",
-          "default": "Du har besvarat @answered questions.",
+          "default": "Du har besvarat @answered frågor.",
           "description": "@answered kommer att ersättas med antalet besvarade frågor"
         },
         {
