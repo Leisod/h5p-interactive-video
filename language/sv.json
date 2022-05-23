@@ -361,8 +361,8 @@
           "default": "Fortsätt med video"
         },
         {
-          "label": "Default label for more player options",
-          "default": "More player options"
+          "label": "Förvalt etikett för fler mediaspelaralternativ",
+          "default": "Fler mediaspelaralternativ"
         },
         {
           "label": "Ange uppspelningshastighet",
@@ -434,9 +434,9 @@
           "description": "@answered kommer ersättas med antalet besvarade frågor."
         },
         {
-          "label": "Submit screen information when submit button is disabled",
-          "default": "You have answered @answered questions.",
-          "description": "@answered will be replaced by the number of answered questions."
+          "label": "Skicka skärminformation när knappen Skicka är inaktiverad",
+          "default": "Du har besvarat @answered questions.",
+          "description": "@answered kommer att ersättas med antalet besvarade frågor"
         },
         {
           "label": "Information på inlämningssida",
